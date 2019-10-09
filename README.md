@@ -15,4 +15,4 @@ chmod +x easy-mac.sh
 
 sudo ./easy-mac.sh
 
-# ***Make sure to edit easy-mac.sh by adding your wireless interface
+# ***Make sure to add your wireless interface to easy-mac.sh
