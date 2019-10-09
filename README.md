@@ -13,6 +13,4 @@ chmod +x easy-mac.sh
 
 # Execution
 
-sudo ./easy-mac.sh
-
-# ***Make sure to add your wireless interface to easy-mac.sh
+sudo ./easy-mac.sh %{wireless interface}
