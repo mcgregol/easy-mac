@@ -13,4 +13,4 @@ chmod +x easy-mac.sh
 
 # Execution
 
-sudo ./easy-mac.sh %{wireless interface}
+sudo ./easy-mac.sh {wireless interface}
